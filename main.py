@@ -103,9 +103,9 @@ botao_url.pack(pady=20)
 botao_url.place(x=135, y=67)
 
 # Botão de colar
-botao_colar = tk.Button(root, text="Colar", command=colar_dados)
+botao_colar = tk.Button(root, text="Colar da área de transferência", command=colar_dados, bg="#3EA051", fg='white')
 botao_colar.pack()
-botao_colar.place(x=400, y=67)
+botao_colar.place(x=280, y=67)
 
 botao_abrir_pasta = tk.Button(root, text="Abrir Pasta", command=abrir_pasta)
 botao_abrir_pasta.pack(pady=20)
