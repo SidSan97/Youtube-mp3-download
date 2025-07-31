@@ -38,3 +38,4 @@ Linux: <br>
 python3 main.py
 ```
 
+Basta copiar a url do video no qual você quer obter a música e colar no campo de digitação. Pode usar o botão verde para colar a url diretamente no campo. Em seguida clique em executar e espere a mensagem confirmando o download da sua música MP3. Para acessar o diretório onde a música foi baixada basca clicar no botão <strong>Abrir pasta</strong>
